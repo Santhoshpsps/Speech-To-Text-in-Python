@@ -11,7 +11,9 @@ Speech must be converted from physical sound to an electrical signal with a micr
 
 Once digitized, several models can be used to transcribe the audio to text.
 
-
+<p align="center">
+<img src="https://github.com/Santhoshpsps/Speech-To-Text-in-Python/blob/master/sttworking.png" height="400" width="900">
+ </p>
 
 # Audio speech into text
 
